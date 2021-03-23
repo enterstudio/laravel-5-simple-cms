@@ -15,7 +15,7 @@
     "vue": "^2.0.1"
   },
   "dependencies": {
-    "admin-lte": "~2.3.11",
+    "admin-lte": "~3.1.0",
     "bootstrap": "~3.3.7",
     "copy-webpack-plugin": "^4.0.1",
     "datatables.net": "~2.1.1",
